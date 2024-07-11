@@ -1,0 +1,33 @@
+.list{
+    text-decoration: line-through;
+}
+.clear{
+    background-color: skyblue;
+     color:white ;
+     border:none;
+      height:25px;
+}
+.empty{
+    background-color: rgb(144, 3, 3);
+    color:white;
+    border:none;
+    height:25px;
+}
+.save{
+    background-color:rgb(4, 221, 4);
+    color:white;
+    border:none;
+    height:25px;
+
+}
+.todo{
+    background-color:white;
+    height:225px;
+    width:300px;
+    margin-left: 300px;
+    margin-top: 170px;
+    padding-left: 30px;
+}
+body{
+    background-color: rgb(4, 221, 4);
+}
